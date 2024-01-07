@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/abhishekchaturvedi/Desktop/firebase_tut/firebase/src",
+      "program": "/Users/abhishekchaturvedi/Desktop/firebase_tut/firebase/src/build/Debug/outDebug"
+    }
+  ]
+}
